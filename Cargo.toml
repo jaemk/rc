@@ -1,0 +1,9 @@
+[package]
+name = "rc"
+version = "0.1.0"
+authors = ["James Kominick <james.kominick@gmail.com>"]
+
+[dependencies]
+clap = "2.23"
+error-chain = "0.10"
+num = "0.1"
